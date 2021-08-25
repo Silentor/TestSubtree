@@ -1,0 +1,17 @@
+{
+	"name": "com.flexy.utils3",
+	"displayName": "Flexy Utils3",
+	"version": "1.0.1",
+	"unity": "2018.1",
+	"description": "univertsl utilities3",
+	"keywords": [
+		"utils"
+	],
+	"category": "Utils",
+	"author": {
+    	"name": "Flexy Framework"
+  	},
+	"dependencies": {
+		"com.unity.collections": "0.9.0-preview.6"
+	}
+}
